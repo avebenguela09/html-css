@@ -1,0 +1,2 @@
+<audio src="midia/good-f-t-ghost-alge.mp3" controls autoplay></audio>
+<video src="midia/meu-video.mp4" width="500" controls></video>
